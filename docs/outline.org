@@ -3,11 +3,14 @@ The Care And Feeding Of Dragons -*- mode: org -*-
 *** TODO Write Project Outline
 
 * The Care And Feeding Of Dragons
-** A Puzzle Game Of Kobold Servitude
+** A Game Of Kobold Servitude
 1. What sort of game?
    a. Clicker
    b. Idle
    c. Platform
+   d. Cosy Farming Simulator
+      You are a kobold.  You need to farm, fish, or otherwise get food for the dragon
+      that shares your region.
 2. Challenge
    Make sure you feed the dragon.  If it gets too hungry, you might
    start to look too tasty to resist.
