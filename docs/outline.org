@@ -14,3 +14,22 @@ The Care And Feeding Of Dragons -*- mode: org -*-
 2. Challenge
    Make sure you feed the dragon.  If it gets too hungry, you might
    start to look too tasty to resist.
+
+* Exploring  The Options
+** Clicker Game
+*** Objective
+  Keep The Dragon Fed
+*** Game Mechanic
+  Click on the screen
+  Generate Food
+  Feed the Dragon
+  Use excess Food to get more help
+  Eventually live a life of ease as the dragon is kept well fed
+*** Win Condition
+  Game Ends When You Want
+*** Challenges
+  Dragon Hunger Grows
+  Too Well Fed means more dragons
+  Natural Disasters
+  Other Stuff
+
