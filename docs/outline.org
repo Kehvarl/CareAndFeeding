@@ -33,3 +33,20 @@ The Care And Feeding Of Dragons -*- mode: org -*-
   Natural Disasters
   Other Stuff
 
+** Platform
+*** Objective
+  Keep the Dragon(s) fed.
+*** Game Mechanic
+  Jumping and climb to different platforms
+  Collect food items
+  Return them to the Dragon
+*** Win Condition
+  Dragon Fed Meter is full
+*** Challenges
+  Puzzle Solving
+    Locked Areas
+    Jumping Puzzles
+  Enemies
+    Try to stop you
+    Steal food
+    
