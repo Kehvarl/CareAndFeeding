@@ -49,4 +49,14 @@ The Care And Feeding Of Dragons -*- mode: org -*-
   Enemies
     Try to stop you
     Steal food
-    
+
+** Cozy Farming
+*** Objective
+  Run A Farm.  Feed the Dragon
+*** Game Mechanic
+  Farm Fields
+  Maximize your harvest
+*** Win Condiiton
+*** Challenges
+
+
