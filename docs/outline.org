@@ -58,5 +58,3 @@ The Care And Feeding Of Dragons -*- mode: org -*-
   Maximize your harvest
 *** Win Condiiton
 *** Challenges
-
-
